@@ -1,0 +1,73 @@
+.logo {
+    display : inline;
+}
+header{
+    background-color:snow;
+
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:250px;
+    padding-right:250px;
+}
+#topright {
+
+    float:right;
+      
+}
+#Solutions,#Services,#Resources,#Company{
+    border-style:none;
+}
+
+#Solutions:focus,#Services:focus,#Resources:focus,#Company:focus{
+    outline:none;
+}
+
+section{
+    background-color: lightgray;
+    height:400px;
+    padding-left:250px;
+    
+    
+    
+}
+
+.contain{
+    
+    height:400px;
+    padding-top:100px
+    
+}
+
+#four{
+    margin-left:110px;
+    font-size:200px;
+   
+    font:lightblue
+    
+   
+}
+
+#pagenot{
+    font-size:70px;
+    margin-top:0px;
+  
+    
+    
+}
+#oops,#button{
+    width:450px;
+ 
+}
+#oops{
+    padding-top:8px;
+}
+.con{
+    display:inline-block;
+}
+#button{
+    padding-top:20px;
+}
+
+
+
+
